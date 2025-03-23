@@ -23,7 +23,7 @@ python setup.py install
 Easily install with the following command.
 
 ```bash
-pip install git+https://github.com/bongtrop/psgen.git
+pip install git+https://github.com/h4shell/psgen.git
 ```
 
 ## Usage
